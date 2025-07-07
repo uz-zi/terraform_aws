@@ -93,4 +93,11 @@ You have successfully automated provisioning of an AWS EC2 instance using Terraf
 -	Launched EC2 instance with specified AMI and instance type
 
 
+## Part 3: Docker Container and Image Deployment
+[ Docker image Deployment to Dockerhub](https://github.com/uz-zi/Netwroking_Project)
 
+## Part 2: Configuration Management with Ansible
+[Anisble setup to pull the Docker image on the EC2 server](https://github.com/uz-zi/Netwroking_Project)
+
+## Part 4: CI/CD Pipeline Integration to pull the image on the EC2 instance whenever code is pushed
+[Git actions for pipeline](https://github.com/uz-zi/Netwroking_Project)
